@@ -21,7 +21,7 @@ namespace nanoframework.TechnicHub.Esp32
         private byte nib2;
         private byte nib3;
         private byte toggle;
-        public double PF_START_STOP = 20;
+        public double PF_START_STOP = 39;
         ////#define PF_START_STOP PF_IR_CYCLES(39)
         public double PF_HIGH_PAUSE = 21;
         ////#define PF_HIGH_PAUSE PF_IR_CYCLES(21)
